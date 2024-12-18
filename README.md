@@ -35,7 +35,7 @@ This app simulates the behavior of ants foraging for food in the real world. It 
 **Repo**: [Soundcircle](https://github.com/aday2418/soundcircle)  
 Do you wish you could see your friends' spotify wrapped year round? Well now you can! Soundcircle is an online social media where your top songs and artists are displayed on your profile. By visiting your friends profiles, you can always stay in their music loop.   
 
-🛠️ *Tech*: React, NextJS, AWS  
+🛠️ *Tech*: React, Next.js, AWS  
 🎧 *Play*: [Screenshot]()
 
 ---
