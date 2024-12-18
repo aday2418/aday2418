@@ -1,6 +1,6 @@
 # 🐙✨ Welcome to My GitHub 🐙✨
 
-Hi there! 👋 I'm Ali, a passionate developer who loves turning ideas into apps. Here's a little backround on me and a couple of projects that I've had fun working on!
+Hi there! 👋 I'm Ali, a passionate developer who loves turning ideas into apps. Here's a little background on me and a couple of projects that I've had fun working on!
 
 
 # 🪐 My Tech Stack
@@ -35,7 +35,7 @@ This app simulates the behavior of ants foraging for food in the real world. It 
 **Repo**: [Soundcircle](https://github.com/aday2418/soundcircle)  
 Do you wish you could see your friends' spotify wrapped year round? Well now you can! Soundcircle is an online social media where your top songs and artists are displayed on your profile. By visiting your friends profiles, you can always stay in their music loop.   
 
-🛠️ *Tech*: Python, TensorFlow, MIDI Generation  
+🛠️ *Tech*: React, NextJS, AWS  
 🎧 *Play*: [Screenshot]()
 
 ---
