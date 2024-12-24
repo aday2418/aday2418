@@ -27,7 +27,7 @@ Here’s a quick overview of the tools, technologies, and languages I love worki
 This app simulates the behavior of ants foraging for food in the real world. It uses agent-based modeling to mirror ant behavior, including the use of pheremone trails to help lead ants to food and guide them home.
 
 🛠️ *Tech*: C++, Qt Creator, G-Test  
-📸 *Sneak Peek*: [Screenshot]()
+📸 *Sneak Peek*: [Simulation Demo](https://github.com/aday2418/Ant-Foraging/blob/75ee6eecb6d2e9387241072219f33c97e9bd7596/lib/DemoVideo.gif)
 
 ---
 
