@@ -1,19 +1,17 @@
-# 🐙✨ Welcome to My GitHub 🐙✨
+# Hi there, I'm Ali 👋
 
-Hi there! 👋 I'm Ali, a passionate developer who loves turning ideas into apps. Here's a little background on me and a couple of projects that I've had fun working on!
+
+![GIF Title](https://media.giphy.com/media/l0Iy2PyFmAFOC7m24/giphy.gif)
 
 
 # 🪐 My Tech Stack
 Here’s a quick overview of the tools, technologies, and languages I love working with:
 
 ### 💻 Languages & Frameworks
-- **Languages**: Python, Javascript, Typescript, C++, Java, SQL, HTML, CSS
-- **Libraries and Frameworks**: React, NextJS, NodeJS, VueJS, Express, Tailwind CSS
+- **Languages**: Python, Javascript, Typescript, and C++
+- **Libraries and Frameworks**: React, NextJS, Tailwind CSS
 
-### 🛠️ Tools and Platforms
-- **Database**: PostgreSQL, Microsoft SQL Server,  MongoDB, Supabase
-- **Platforms**: Git, Linux, AWS, Vercel
-- **Other Skills**: Unit Testing, Agile Development, Jira
+
 
 ### 💡 Other Interests
 - **AI/ML**: TensorFlow, PyTorch  
@@ -22,7 +20,7 @@ Here’s a quick overview of the tools, technologies, and languages I love worki
 
 # 🍄 Featured Projects
 
-### 🍔 🐜 **Ant Foraging - An Ant Simulator**
+### 🍔 🐜 **Ant Foraging - Ant Simulator**
 **Repo**: [Ant Foraging](https://github.com/aday2418/Ant-Foraging)  
 This app simulates the behavior of ants foraging for food in the real world. It uses agent-based modeling to mirror ant behavior, including the use of pheremone trails to help lead ants to food and guide them home.
 
