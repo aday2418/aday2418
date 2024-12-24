@@ -1,26 +1,28 @@
 # Hi there, I'm Ali 👋
 
 
-![GIF Title](https://media.giphy.com/media/l0Iy2PyFmAFOC7m24/giphy.gif)
 
 
-# 🪐 My Tech Stack
+<img src="https://media.giphy.com/media/l0Iy2PyFmAFOC7m24/giphy.gif" width="300" height="300" alt="GIF Example">
+
+## 🪐 My Tech Stack
 Here’s a quick overview of the tools, technologies, and languages I love working with:
 
-### 💻 Languages & Frameworks
+#### 💻 Languages & Frameworks
 - **Languages**: Python, Javascript, Typescript, and C++
 - **Libraries and Frameworks**: React, NextJS, Tailwind CSS
 
 
 
-### 💡 Other Interests
+#### 💡 Other Interests
 - **AI/ML**: TensorFlow, PyTorch  
 - **Blockchain**: Solidity
 
+---
 
-# 🍄 Featured Projects
+## 🍄 Featured Projects
 
-### 🍔 🐜 **Ant Foraging - Ant Simulator**
+#### 🍔 🐜 **Ant Foraging - Ant Simulator**
 **Repo**: [Ant Foraging](https://github.com/aday2418/Ant-Foraging)  
 This app simulates the behavior of ants foraging for food in the real world. It uses agent-based modeling to mirror ant behavior, including the use of pheremone trails to help lead ants to food and guide them home.
 
@@ -29,7 +31,7 @@ This app simulates the behavior of ants foraging for food in the real world. It 
 
 ---
 
-### 🎧 🎶 **Soundcircle - Keep tabs on Your Friends Spotify Listening**
+#### 🎧 🎶 **Soundcircle - Keep tabs on Your Friends Spotify Listening**
 **Repo**: [Soundcircle](https://github.com/aday2418/soundcircle)  
 Do you wish you could see your friends' spotify wrapped year round? Well now you can! Soundcircle is an online social media where your top songs and artists are displayed on your profile. By visiting your friends profiles, you can always stay in their music loop.   
 
@@ -38,7 +40,7 @@ Do you wish you could see your friends' spotify wrapped year round? Well now you
 
 ---
 
-### ✨ 📄 **PortfolioGPT - Your AI Resume Expert**
+#### ✨ 📄 **PortfolioGPT - Your AI Resume Expert**
 **Repo**: [PortfolioGPT](https://github.com/aday2418/portfolioGPT)  
 An AI chatbot chatbot that specializes in knowledge of your resume. Use it to display on your portfolio website and help imprese recruiters
 
@@ -47,7 +49,7 @@ An AI chatbot chatbot that specializes in knowledge of your resume. Use it to di
 
 ---
 
-### 🔒 💰 **ShowMyCoins - A Multi-Chain Crypto Wallet**
+#### 🔒 💰 **ShowMyCoins - A Multi-Chain Crypto Wallet**
 **Repo**: [ShowMyCoins](https://github.com/aday2418/showmycoins)  
 Ever gotten annoyed of having to switch between three apps to check on your crypto across multiple blockchains? Fear no more with ShowMyCoins that combines Bitcoin, Solana, and Eth all into a single platform!
 
@@ -63,7 +65,7 @@ Ever gotten annoyed of having to switch between three apps to check on your cryp
 
 ---
 
-### 🚀 What's Next?
+## 🚀 What's Next?
 I’m always working on something exciting. Check back to see my new projects!
 
 ---
