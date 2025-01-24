@@ -40,12 +40,12 @@ Do you wish you could see your friends' spotify wrapped year round? Well now you
 
 ---
 
-#### ✨ 📄 **PortfolioGPT - Your AI Resume Expert**
+#### ✨ 📄 **Chatfolio - Your AI Resume Expert**
 **Repo**: [PortfolioGPT](https://github.com/aday2418/portfolioGPT)  
 An AI chatbot chatbot that specializes in knowledge of your resume. Use it to display on your portfolio website and help impress recruiters
 
 🛠️ *Tech*: React, Next.js, Supabase, OpenAI API  
-🔗 *Sneak Peak*: [Screenshot]()
+🔗 *Sneak Peak*: [Screenshot](https://github.com/aday2418/portfolioGPT/blob/main/public/landingPagePhoto.png)
 
 ---
 
