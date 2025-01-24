@@ -22,24 +22,6 @@ Here’s a quick overview of the tools, technologies, and languages I love worki
 
 ## 🍄 Featured Projects
 
-#### 🍔 🐜 **Ant Foraging - Ant Simulator**
-**Repo**: [Ant Foraging](https://github.com/aday2418/Ant-Foraging)  
-This app simulates the behavior of ants foraging for food in the real world. It uses agent-based modeling to mirror ant behavior, including the use of pheremone trails to help lead ants to food and guide them home.
-
-🛠️ *Tech*: C++, Qt Creator, G-Test  
-📸 *Sneak Peek*: [Video](https://github.com/aday2418/Ant-Foraging/blob/75ee6eecb6d2e9387241072219f33c97e9bd7596/lib/DemoVideo.gif)
-
----
-
-#### 🎧 🎶 **Soundcircle - Keep tabs on Your Friends Spotify Listening**
-**Repo**: [Soundcircle](https://github.com/aday2418/soundcircle)  
-Do you wish you could see your friends' spotify wrapped year round? Well now you can! Soundcircle is an online social media where your top songs and artists are displayed on your profile. By visiting your friends profiles, you can always stay in their music loop.   
-
-🛠️ *Tech*: React, Next.js, AWS  
-🎧 *Play*: [Screenshot](https://github.com/aday2418/soundcircle/blob/7bec61b18673ae7c6265958fa9779e995876e331/public/images/topArtists.png)
-
----
-
 #### ✨ 📄 **Chatfolio - Your AI Resume Expert**
 **Repo**: [PortfolioGPT](https://github.com/aday2418/portfolioGPT)  
 An AI chatbot chatbot that specializes in knowledge of your resume. Use it to display on your portfolio website and help impress recruiters
@@ -49,12 +31,30 @@ An AI chatbot chatbot that specializes in knowledge of your resume. Use it to di
 
 ---
 
+#### 🍔 🐜 **Ant Foraging - Ant Colony Agent Based Modeling**
+**Repo**: [Ant Foraging](https://github.com/aday2418/Ant-Foraging)  
+This app simulates the behavior of ants foraging for food in the real world. It uses agent-based modeling to mirror ant behavior, including the use of pheremone trails to help lead ants to food and guide them home.
+
+🛠️ *Tech*: C++, Qt Creator, G-Test  
+📸 *Sneak Peek*: [Video](https://github.com/aday2418/Ant-Foraging/blob/75ee6eecb6d2e9387241072219f33c97e9bd7596/lib/DemoVideo.gif)
+
+---
+
 #### 🔒 💰 **ShowMyCoins - A Multi-Chain Crypto Wallet**
 **Repo**: [ShowMyCoins](https://github.com/aday2418/showmycoins)  
 Ever gotten annoyed of having to switch between three apps to check on your crypto across multiple blockchains? Fear no more with ShowMyCoins that combines Bitcoin, Solana, and Eth all into a single platform!
 
 🛠️ *Tech*: React, Next.js, Blockchain  
-🔗 *Sneak Peak*: [Screenshot]()
+🔗 *Sneak Peak*: [Screenshot](https://github.com/aday2418/showmycoins/blob/main/public/showYourCoinsHome.jpg)
+
+---
+
+#### 🎧 🎶 **Soundcircle - Keep tabs on Your Friends Spotify Listening**
+**Repo**: [Soundcircle](https://github.com/aday2418/soundcircle)  
+Do you wish you could see your friends' spotify wrapped year round? Well now you can! Soundcircle is an online social media where your top songs and artists are displayed on your profile. By visiting your friends profiles, you can always stay in their music loop.   
+
+🛠️ *Tech*: React, Next.js, AWS  
+🎧 *Play*: [Screenshot](https://github.com/aday2418/soundcircle/blob/7bec61b18673ae7c6265958fa9779e995876e331/public/images/topArtists.png)
 
 ---
 
