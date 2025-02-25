@@ -64,8 +64,3 @@ Do you wish you could see your friends' spotify wrapped year round? Well now you
 - [**AI Sodoku Solver**](https://github.com/aday2418/Sudoku) 🧩: Bet you can't beat this AI app at a game of sodoku :)
 
 ---
-
-## 🚀 What's Next?
-I’m always working on something exciting. Check back to see my new projects!
-
----
